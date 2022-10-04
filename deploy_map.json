@@ -33,6 +33,17 @@
             "github_repo_name": "trash-ai",
             "github_repo_owner": "shollingsworth"
         },
+         {
+            "aws_account_number": "310812450672",
+            "region": "us-west-1",
+            "branch": "aws/govs",
+            "log_retention_days": 30,
+            "public_bucket": "trash-ai-public",
+            "dns_domain_map_root": true,
+            "dns_domain": "govs.ai",
+            "github_repo_name": "trash-ai",
+            "github_repo_owner": "higregory"
+        },
         {
             "aws_account_number": "000000000000",
             "region": "us-east-2",
