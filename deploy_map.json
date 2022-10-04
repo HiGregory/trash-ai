@@ -35,8 +35,8 @@
         },
          {
             "aws_account_number": "310812450672",
-            "region": "us-west-1",
-            "branch": "aws/govs",
+            "region": "us-east-1",
+            "branch": "aws/greg",
             "log_retention_days": 30,
             "public_bucket": "trash-ai-public",
             "dns_domain_map_root": true,
